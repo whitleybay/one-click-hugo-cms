@@ -1,7 +1,7 @@
 ---
 title: Kangamaths
 subtitle: Just for you
-image: /img/home-jumbotron.jpg
+image: img/mstile-310x150.png
 blurb:
   heading: Why Kangamaths?
   text: Kangamaths is the place for individual tuition.

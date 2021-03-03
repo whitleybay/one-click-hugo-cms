@@ -23,6 +23,8 @@ products:
       tools for every taste and experience level. No matter if you roast your
       own beans or just bought your first french press, you’ll find a gadget to
       fall in love with in our shop.
+  - image: img/about-direct-sourcing.jpg
+    text: Test 123
 values:
   heading: Our values
   text: Coffee is an amazing part of human culture but it has a dark side too –
